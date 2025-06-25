@@ -1,0 +1,422 @@
+[
+  {
+    "split_id": "s001",
+    "date": "2025-06-07T11:00:14.948657",
+    "total_amount": 110.43,
+    "participants": [
+      {
+        "user_id": "u003",
+        "amount": 13.66
+      },
+      {
+        "user_id": "u005",
+        "amount": 35.25
+      },
+      {
+        "user_id": "u013",
+        "amount": 61.52
+      }
+    ],
+    "description": "Key require doctor from throw."
+  },
+  {
+    "split_id": "s002",
+    "date": "2025-05-22T01:45:40.288649",
+    "total_amount": 124.17,
+    "participants": [
+      {
+        "user_id": "u007",
+        "amount": 13.23
+      },
+      {
+        "user_id": "u008",
+        "amount": 47.19
+      },
+      {
+        "user_id": "u005",
+        "amount": 21.29
+      },
+      {
+        "user_id": "u010",
+        "amount": 42.46
+      }
+    ],
+    "description": "Discuss really relationship ask."
+  },
+  {
+    "split_id": "s003",
+    "date": "2025-05-31T21:13:00.566176",
+    "total_amount": 99.78,
+    "participants": [
+      {
+        "user_id": "u004",
+        "amount": 36.34
+      },
+      {
+        "user_id": "u013",
+        "amount": 5.22
+      },
+      {
+        "user_id": "u001",
+        "amount": 28.3
+      },
+      {
+        "user_id": "u018",
+        "amount": 29.92
+      }
+    ],
+    "description": "Letter artist strategy hope show watch affect."
+  },
+  {
+    "split_id": "s004",
+    "date": "2025-06-15T01:49:05.095788",
+    "total_amount": 102.32,
+    "participants": [
+      {
+        "user_id": "u016",
+        "amount": 9.75
+      },
+      {
+        "user_id": "u005",
+        "amount": 17.39
+      },
+      {
+        "user_id": "u001",
+        "amount": 75.18
+      }
+    ],
+    "description": "Herself accept goal send table well industry."
+  },
+  {
+    "split_id": "s005",
+    "date": "2025-06-11T01:57:23.613991",
+    "total_amount": 175.48,
+    "participants": [
+      {
+        "user_id": "u013",
+        "amount": 23.48
+      },
+      {
+        "user_id": "u018",
+        "amount": 61.35
+      },
+      {
+        "user_id": "u011",
+        "amount": 12.37
+      },
+      {
+        "user_id": "u017",
+        "amount": 78.28
+      }
+    ],
+    "description": "Son today major event magazine home protect."
+  },
+  {
+    "split_id": "s006",
+    "date": "2025-06-12T14:24:27.904897",
+    "total_amount": 35.26,
+    "participants": [
+      {
+        "user_id": "u014",
+        "amount": 11.24
+      },
+      {
+        "user_id": "u004",
+        "amount": 24.02
+      }
+    ],
+    "description": "Subject try wonder move."
+  },
+  {
+    "split_id": "s007",
+    "date": "2025-06-15T20:44:02.611825",
+    "total_amount": 190.21,
+    "participants": [
+      {
+        "user_id": "u001",
+        "amount": 91.76
+      },
+      {
+        "user_id": "u014",
+        "amount": 7.84
+      },
+      {
+        "user_id": "u016",
+        "amount": 90.61
+      }
+    ],
+    "description": "North agree poor career left anyone here deep."
+  },
+  {
+    "split_id": "s008",
+    "date": "2025-05-29T11:04:27.326252",
+    "total_amount": 110.79,
+    "participants": [
+      {
+        "user_id": "u012",
+        "amount": 41.42
+      },
+      {
+        "user_id": "u005",
+        "amount": 12.41
+      },
+      {
+        "user_id": "u008",
+        "amount": 5.35
+      },
+      {
+        "user_id": "u011",
+        "amount": 51.61
+      }
+    ],
+    "description": "Everything week instead strong like see."
+  },
+  {
+    "split_id": "s009",
+    "date": "2025-05-21T05:14:48.896567",
+    "total_amount": 96.64,
+    "participants": [
+      {
+        "user_id": "u004",
+        "amount": 33.24
+      },
+      {
+        "user_id": "u020",
+        "amount": 20.95
+      },
+      {
+        "user_id": "u002",
+        "amount": 42.45
+      }
+    ],
+    "description": "Difference attention whatever American all easy."
+  },
+  {
+    "split_id": "s010",
+    "date": "2025-06-13T19:59:24.169570",
+    "total_amount": 29.48,
+    "participants": [
+      {
+        "user_id": "u017",
+        "amount": 13.23
+      },
+      {
+        "user_id": "u006",
+        "amount": 7.78
+      },
+      {
+        "user_id": "u020",
+        "amount": 8.47
+      }
+    ],
+    "description": "Charge call prove nor design record short cold."
+  },
+  {
+    "split_id": "s011",
+    "date": "2025-06-06T20:57:48.504165",
+    "total_amount": 75.15,
+    "participants": [
+      {
+        "user_id": "u011",
+        "amount": 27.54
+      },
+      {
+        "user_id": "u006",
+        "amount": 10.03
+      },
+      {
+        "user_id": "u020",
+        "amount": 17.65
+      },
+      {
+        "user_id": "u005",
+        "amount": 19.93
+      }
+    ],
+    "description": "Sing clearly find official."
+  },
+  {
+    "split_id": "s012",
+    "date": "2025-06-16T12:32:38.540511",
+    "total_amount": 50.68,
+    "participants": [
+      {
+        "user_id": "u008",
+        "amount": 16.17
+      },
+      {
+        "user_id": "u017",
+        "amount": 15.72
+      },
+      {
+        "user_id": "u011",
+        "amount": 7.0
+      },
+      {
+        "user_id": "u016",
+        "amount": 11.79
+      }
+    ],
+    "description": "Quality when however resource away real physical."
+  },
+  {
+    "split_id": "s013",
+    "date": "2025-05-22T17:06:51.183716",
+    "total_amount": 37.46,
+    "participants": [
+      {
+        "user_id": "u015",
+        "amount": 18.1
+      },
+      {
+        "user_id": "u019",
+        "amount": 9.59
+      },
+      {
+        "user_id": "u013",
+        "amount": 4.9
+      },
+      {
+        "user_id": "u003",
+        "amount": 4.87
+      }
+    ],
+    "description": "Sure outside building worker site."
+  },
+  {
+    "split_id": "s014",
+    "date": "2025-05-30T01:43:55.159679",
+    "total_amount": 68.16,
+    "participants": [
+      {
+        "user_id": "u008",
+        "amount": 11.34
+      },
+      {
+        "user_id": "u001",
+        "amount": 18.11
+      },
+      {
+        "user_id": "u011",
+        "amount": 11.31
+      },
+      {
+        "user_id": "u005",
+        "amount": 27.4
+      }
+    ],
+    "description": "Product attention positive actually information majority."
+  },
+  {
+    "split_id": "s015",
+    "date": "2025-06-01T15:52:55.656237",
+    "total_amount": 169.79,
+    "participants": [
+      {
+        "user_id": "u003",
+        "amount": 8.52
+      },
+      {
+        "user_id": "u007",
+        "amount": 11.26
+      },
+      {
+        "user_id": "u002",
+        "amount": 150.01
+      }
+    ],
+    "description": "Player stock religious itself safe whole."
+  },
+  {
+    "split_id": "s016",
+    "date": "2025-05-27T18:12:16.571436",
+    "total_amount": 73.15,
+    "participants": [
+      {
+        "user_id": "u008",
+        "amount": 5.18
+      },
+      {
+        "user_id": "u004",
+        "amount": 67.97
+      }
+    ],
+    "description": "Simple let stay or focus early various."
+  },
+  {
+    "split_id": "s017",
+    "date": "2025-05-28T00:34:25.021907",
+    "total_amount": 54.58,
+    "participants": [
+      {
+        "user_id": "u015",
+        "amount": 6.55
+      },
+      {
+        "user_id": "u006",
+        "amount": 48.03
+      }
+    ],
+    "description": "During let particular her agreement surface consider."
+  },
+  {
+    "split_id": "s018",
+    "date": "2025-05-26T00:28:17.651666",
+    "total_amount": 59.36,
+    "participants": [
+      {
+        "user_id": "u008",
+        "amount": 5.05
+      },
+      {
+        "user_id": "u003",
+        "amount": 13.8
+      },
+      {
+        "user_id": "u011",
+        "amount": 5.33
+      },
+      {
+        "user_id": "u012",
+        "amount": 35.18
+      }
+    ],
+    "description": "Future they red everybody act."
+  },
+  {
+    "split_id": "s019",
+    "date": "2025-06-17T02:21:01.201598",
+    "total_amount": 102.4,
+    "participants": [
+      {
+        "user_id": "u002",
+        "amount": 28.47
+      },
+      {
+        "user_id": "u004",
+        "amount": 15.49
+      },
+      {
+        "user_id": "u012",
+        "amount": 58.44
+      }
+    ],
+    "description": "Drop image new drive."
+  },
+  {
+    "split_id": "s020",
+    "date": "2025-06-02T22:31:56.343153",
+    "total_amount": 110.41,
+    "participants": [
+      {
+        "user_id": "u016",
+        "amount": 25.58
+      },
+      {
+        "user_id": "u007",
+        "amount": 84.83
+      }
+    ],
+    "description": "Large admit family identify during professional hard."
+  }
+]
