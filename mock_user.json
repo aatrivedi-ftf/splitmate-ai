@@ -1,0 +1,1122 @@
+[
+  {
+    "user_id": "u001",
+    "name": "Allison Hill",
+    "location": {
+      "lat": -30.0823225,
+      "lon": -105.086147
+    },
+    "recent_locations": [
+      {
+        "timestamp": "2025-06-17T14:47:41.285405",
+        "place": "Hernandez and Sons",
+        "lat": 23.3227025,
+        "lon": 140.194662
+      },
+      {
+        "timestamp": "2025-06-18T15:16:47.436264",
+        "place": "Cruz PLC",
+        "lat": 52.0330505,
+        "lon": -45.023075
+      },
+      {
+        "timestamp": "2025-06-17T01:33:01.879420",
+        "place": "Valencia, Smith and Le",
+        "lat": 54.141875,
+        "lon": -36.749319
+      },
+      {
+        "timestamp": "2025-06-13T16:08:04.976556",
+        "place": "Peterson, Carter and Moore",
+        "lat": -19.297042,
+        "lon": 88.750123
+      },
+      {
+        "timestamp": "2025-06-18T00:12:27.022170",
+        "place": "Romero Inc",
+        "lat": -9.8868375,
+        "lon": 163.033396
+      },
+      {
+        "timestamp": "2025-06-16T08:28:14.741012",
+        "place": "Lynch, Hernandez and Farmer",
+        "lat": 52.3657295,
+        "lon": -179.692966
+      },
+      {
+        "timestamp": "2025-06-18T01:11:30.851220",
+        "place": "Nguyen, Smith and Hickman",
+        "lat": -7.4523045,
+        "lon": -51.445018
+      },
+      {
+        "timestamp": "2025-06-18T09:22:45.160369",
+        "place": "Allen PLC",
+        "lat": -67.0075775,
+        "lon": 80.91414
+      }
+    ],
+    "past_splits": [
+      "s003",
+      "s004",
+      "s007",
+      "s014"
+    ]
+  },
+  {
+    "user_id": "u002",
+    "name": "Megan Mcclain",
+    "location": {
+      "lat": -66.662536,
+      "lon": 137.018253
+    },
+    "recent_locations": [
+      {
+        "timestamp": "2025-06-17T14:42:41.285405",
+        "place": "Hernandez and Sons",
+        "lat": 23.322865667981635,
+        "lon": 140.19509724641057
+      },
+      {
+        "timestamp": "2025-06-17T11:38:43.473461",
+        "place": "Spence PLC",
+        "lat": -55.5351785,
+        "lon": 174.201025
+      },
+      {
+        "timestamp": "2025-06-16T07:03:58.076165",
+        "place": "Arroyo-Martin",
+        "lat": 72.831314,
+        "lon": 47.170451
+      },
+      {
+        "timestamp": "2025-06-17T02:31:45.817067",
+        "place": "Hickman Ltd",
+        "lat": -6.3242945,
+        "lon": 34.207359
+      }
+    ],
+    "past_splits": [
+      "s009",
+      "s015",
+      "s019"
+    ]
+  },
+  {
+    "user_id": "u003",
+    "name": "Allen Robinson",
+    "location": {
+      "lat": 45.655277,
+      "lon": 143.206344
+    },
+    "recent_locations": [
+      {
+        "timestamp": "2025-06-14T06:15:56.812615",
+        "place": "Santos, Kim and Holmes",
+        "lat": -29.6832675,
+        "lon": -145.626357
+      },
+      {
+        "timestamp": "2025-06-16T14:21:29.129425",
+        "place": "Smith-Spencer",
+        "lat": -88.069723,
+        "lon": -141.885878
+      },
+      {
+        "timestamp": "2025-06-17T22:54:05.492910",
+        "place": "Welch, Perez and Whitehead",
+        "lat": -70.979375,
+        "lon": 96.035466
+      },
+      {
+        "timestamp": "2025-06-14T17:27:13.300784",
+        "place": "Ramirez Group",
+        "lat": -54.4828095,
+        "lon": 126.576427
+      },
+      {
+        "timestamp": "2025-06-14T14:35:40.083004",
+        "place": "Kennedy, Mueller and Aguirre",
+        "lat": -63.9803335,
+        "lon": 173.788671
+      },
+      {
+        "timestamp": "2025-06-17T23:24:20.475296",
+        "place": "Gomez-Jenkins",
+        "lat": -75.458534,
+        "lon": 170.821241
+      }
+    ],
+    "past_splits": [
+      "s001",
+      "s013",
+      "s015",
+      "s018"
+    ]
+  },
+  {
+    "user_id": "u004",
+    "name": "Cristian Santos",
+    "location": {
+      "lat": 56.281615,
+      "lon": 45.227988
+    },
+    "recent_locations": [
+      {
+        "timestamp": "2025-06-17T23:08:45.535704",
+        "place": "Garcia, Powell and Morgan",
+        "lat": -23.251824,
+        "lon": -77.140864
+      },
+      {
+        "timestamp": "2025-06-15T18:22:15.868408",
+        "place": "Herrera and Sons",
+        "lat": -15.2286065,
+        "lon": 68.371554
+      },
+      {
+        "timestamp": "2025-06-15T20:55:15.481863",
+        "place": "Baxter Inc",
+        "lat": 57.726826,
+        "lon": -127.435652
+      },
+      {
+        "timestamp": "2025-06-17T20:04:06.916754",
+        "place": "Pearson PLC",
+        "lat": -64.964965,
+        "lon": -53.094728
+      },
+      {
+        "timestamp": "2025-06-14T17:23:41.833254",
+        "place": "Russell Group",
+        "lat": 17.653432,
+        "lon": -148.520358
+      },
+      {
+        "timestamp": "2025-06-14T23:34:10.721130",
+        "place": "Gray Group",
+        "lat": 32.1403795,
+        "lon": -26.857986
+      },
+      {
+        "timestamp": "2025-06-17T13:44:55.180305",
+        "place": "Horton-Cross",
+        "lat": 87.669726,
+        "lon": 81.279727
+      }
+    ],
+    "past_splits": [
+      "s003",
+      "s006",
+      "s009",
+      "s016",
+      "s019"
+    ]
+  },
+  {
+    "user_id": "u005",
+    "name": "Kevin Pacheco",
+    "location": {
+      "lat": -88.2555025,
+      "lon": -94.28356
+    },
+    "recent_locations": [
+      {
+        "timestamp": "2025-06-18T15:06:47.436264",
+        "place": "Cruz PLC",
+        "lat": 52.03347101808136,
+        "lon": -45.02323387447553
+      },
+      {
+        "timestamp": "2025-06-18T11:59:25.445667",
+        "place": "Lee and Sons",
+        "lat": 65.472524,
+        "lon": 111.088834
+      },
+      {
+        "timestamp": "2025-06-13T21:45:44.489698",
+        "place": "Adkins Inc",
+        "lat": 37.9869425,
+        "lon": 89.96574
+      },
+      {
+        "timestamp": "2025-06-14T14:02:39.383144",
+        "place": "Moore, Yu and Miller",
+        "lat": 69.72852,
+        "lon": -143.51379
+      },
+      {
+        "timestamp": "2025-06-16T12:06:22.777180",
+        "place": "Hensley, Powell and David",
+        "lat": 65.4024,
+        "lon": 139.180042
+      },
+      {
+        "timestamp": "2025-06-16T22:37:48.207052",
+        "place": "Harvey Group",
+        "lat": 61.726947,
+        "lon": 100.666834
+      },
+      {
+        "timestamp": "2025-06-17T05:41:17.857941",
+        "place": "Donovan-Harris",
+        "lat": -25.9282265,
+        "lon": -37.399294
+      }
+    ],
+    "past_splits": [
+      "s001",
+      "s002",
+      "s004",
+      "s008",
+      "s011",
+      "s014"
+    ]
+  },
+  {
+    "user_id": "u006",
+    "name": "Gina Moore",
+    "location": {
+      "lat": 0.3539115,
+      "lon": -125.126275
+    },
+    "recent_locations": [
+      {
+        "timestamp": "2025-06-17T01:25:01.879420",
+        "place": "Valencia, Smith and Le",
+        "lat": 54.14216856083431,
+        "lon": -36.74885425302645
+      },
+      {
+        "timestamp": "2025-06-14T06:23:56.812615",
+        "place": "Santos, Kim and Holmes",
+        "lat": -29.683081423636267,
+        "lon": -145.62678586027883
+      },
+      {
+        "timestamp": "2025-06-17T23:06:45.535704",
+        "place": "Garcia, Powell and Morgan",
+        "lat": -23.251675605159583,
+        "lon": -77.14076349698135
+      },
+      {
+        "timestamp": "2025-06-18T12:06:25.445667",
+        "place": "Lee and Sons",
+        "lat": 65.4725199364725,
+        "lon": 111.08906487337471
+      },
+      {
+        "timestamp": "2025-06-15T22:36:44.015350",
+        "place": "Anderson-Brewer",
+        "lat": -70.526856,
+        "lon": -174.998802
+      },
+      {
+        "timestamp": "2025-06-14T03:44:34.899535",
+        "place": "Howell-Hart",
+        "lat": 54.3201365,
+        "lon": -65.563651
+      },
+      {
+        "timestamp": "2025-06-18T01:15:27.744753",
+        "place": "Baker, Mahoney and Ibarra",
+        "lat": 9.194173,
+        "lon": -26.998558
+      },
+      {
+        "timestamp": "2025-06-17T04:10:12.247638",
+        "place": "Kim PLC",
+        "lat": 74.1959985,
+        "lon": 171.10086
+      },
+      {
+        "timestamp": "2025-06-16T23:21:06.924865",
+        "place": "Smith, Montoya and Evans",
+        "lat": -53.9515035,
+        "lon": -38.015939
+      },
+      {
+        "timestamp": "2025-06-16T10:07:55.612862",
+        "place": "Preston Ltd",
+        "lat": -16.8920825,
+        "lon": -28.733253
+      }
+    ],
+    "past_splits": [
+      "s010",
+      "s011",
+      "s017"
+    ]
+  },
+  {
+    "user_id": "u007",
+    "name": "Brent Abbott",
+    "location": {
+      "lat": 72.061472,
+      "lon": -37.986444
+    },
+    "recent_locations": [
+      {
+        "timestamp": "2025-06-15T18:15:15.868408",
+        "place": "Herrera and Sons",
+        "lat": -15.228862201084036,
+        "lon": 68.3711658620185
+      },
+      {
+        "timestamp": "2025-06-13T21:39:44.489698",
+        "place": "Adkins Inc",
+        "lat": 37.98656617676349,
+        "lon": 89.96622983181868
+      },
+      {
+        "timestamp": "2025-06-17T22:05:41.336249",
+        "place": "Clark, Cooper and Watts",
+        "lat": 45.669711,
+        "lon": 82.27854
+      },
+      {
+        "timestamp": "2025-06-14T02:49:15.938052",
+        "place": "Whitehead-Mathis",
+        "lat": 23.702755,
+        "lon": -31.458434
+      },
+      {
+        "timestamp": "2025-06-16T20:11:55.978994",
+        "place": "Smith and Sons",
+        "lat": -19.6819185,
+        "lon": -93.251337
+      },
+      {
+        "timestamp": "2025-06-14T05:10:12.516415",
+        "place": "Ramos, Thornton and Hoffman",
+        "lat": -49.9885445,
+        "lon": 112.911559
+      },
+      {
+        "timestamp": "2025-06-16T10:02:53.841794",
+        "place": "Davenport PLC",
+        "lat": 25.369993,
+        "lon": -111.578208
+      },
+      {
+        "timestamp": "2025-06-18T03:36:58.442979",
+        "place": "Parker Inc",
+        "lat": -33.6080095,
+        "lon": -46.034744
+      }
+    ],
+    "past_splits": [
+      "s002",
+      "s015",
+      "s020"
+    ]
+  },
+  {
+    "user_id": "u008",
+    "name": "Monica Herrera",
+    "location": {
+      "lat": 11.612049,
+      "lon": -137.694467
+    },
+    "recent_locations": [
+      {
+        "timestamp": "2025-06-15T20:43:15.481863",
+        "place": "Baxter Inc",
+        "lat": 57.72643438207187,
+        "lon": -127.43611854973581
+      },
+      {
+        "timestamp": "2025-06-15T22:32:44.015350",
+        "place": "Anderson-Brewer",
+        "lat": -70.52650291885895,
+        "lon": -174.99835817115147
+      },
+      {
+        "timestamp": "2025-06-17T22:15:41.336249",
+        "place": "Clark, Cooper and Watts",
+        "lat": 45.66999066515164,
+        "lon": 82.27886553560964
+      },
+      {
+        "timestamp": "2025-06-15T16:30:38.032408",
+        "place": "Garcia, Deleon and Henson",
+        "lat": 76.6075545,
+        "lon": -97.024809
+      },
+      {
+        "timestamp": "2025-06-18T01:30:54.800415",
+        "place": "Hancock and Sons",
+        "lat": -83.3464605,
+        "lon": -83.706478
+      },
+      {
+        "timestamp": "2025-06-17T00:08:02.879853",
+        "place": "Middleton, Patton and Jenkins",
+        "lat": -23.383114,
+        "lon": -36.759775
+      },
+      {
+        "timestamp": "2025-06-15T13:39:01.024162",
+        "place": "Cobb Inc",
+        "lat": -79.6049435,
+        "lon": 72.69978
+      }
+    ],
+    "past_splits": [
+      "s002",
+      "s008",
+      "s012",
+      "s014",
+      "s016",
+      "s018"
+    ]
+  },
+  {
+    "user_id": "u009",
+    "name": "Sandra Montgomery",
+    "location": {
+      "lat": 7.075663,
+      "lon": 129.963575
+    },
+    "recent_locations": [
+      {
+        "timestamp": "2025-06-13T16:03:04.976556",
+        "place": "Peterson, Carter and Moore",
+        "lat": -19.296876941342124,
+        "lon": 88.75032943634328
+      },
+      {
+        "timestamp": "2025-06-14T03:44:34.899535",
+        "place": "Howell-Hart",
+        "lat": 54.319920023397316,
+        "lon": -65.56370564315206
+      },
+      {
+        "timestamp": "2025-06-14T02:35:15.938052",
+        "place": "Whitehead-Mathis",
+        "lat": 23.702896444557027,
+        "lon": -31.458073167778284
+      },
+      {
+        "timestamp": "2025-06-15T09:42:15.439361",
+        "place": "Gonzalez Group",
+        "lat": -28.9053005,
+        "lon": -60.31883
+      },
+      {
+        "timestamp": "2025-06-15T07:08:12.162917",
+        "place": "Keller Group",
+        "lat": -71.365009,
+        "lon": -30.145909
+      },
+      {
+        "timestamp": "2025-06-18T13:28:59.664870",
+        "place": "May-Ross",
+        "lat": 53.939314,
+        "lon": -2.215269
+      }
+    ],
+    "past_splits": []
+  },
+  {
+    "user_id": "u010",
+    "name": "Benjamin Stanley",
+    "location": {
+      "lat": -12.3180115,
+      "lon": -137.16201
+    },
+    "recent_locations": [
+      {
+        "timestamp": "2025-06-16T14:23:29.129425",
+        "place": "Smith-Spencer",
+        "lat": -88.06983799671814,
+        "lon": -141.88621836963944
+      },
+      {
+        "timestamp": "2025-06-18T01:25:27.744753",
+        "place": "Baker, Mahoney and Ibarra",
+        "lat": 9.194623714318142,
+        "lon": -26.99883528949229
+      },
+      {
+        "timestamp": "2025-06-15T09:27:15.439361",
+        "place": "Gonzalez Group",
+        "lat": -28.905229617295436,
+        "lon": -60.31919477759041
+      },
+      {
+        "timestamp": "2025-06-14T13:10:24.296587",
+        "place": "Wilson LLC",
+        "lat": -18.739416,
+        "lon": -159.460824
+      },
+      {
+        "timestamp": "2025-06-17T07:10:14.466202",
+        "place": "Carlson LLC",
+        "lat": -5.7978865,
+        "lon": 54.287182
+      },
+      {
+        "timestamp": "2025-06-14T14:33:17.030585",
+        "place": "Joyce, Wilson and Lam",
+        "lat": -78.0850815,
+        "lon": 54.106598
+      },
+      {
+        "timestamp": "2025-06-17T02:10:05.287467",
+        "place": "Meyer PLC",
+        "lat": -37.1087845,
+        "lon": 15.539914
+      },
+      {
+        "timestamp": "2025-06-15T07:22:09.415570",
+        "place": "Jones-Beck",
+        "lat": -5.733912,
+        "lon": 176.153436
+      }
+    ],
+    "past_splits": [
+      "s002"
+    ]
+  },
+  {
+    "user_id": "u011",
+    "name": "Sharon James",
+    "location": {
+      "lat": 31.711401,
+      "lon": 161.280485
+    },
+    "recent_locations": [
+      {
+        "timestamp": "2025-06-17T23:05:05.492910",
+        "place": "Welch, Perez and Whitehead",
+        "lat": -70.97918590271769,
+        "lon": 96.0351253827629
+      },
+      {
+        "timestamp": "2025-06-17T19:49:06.916754",
+        "place": "Pearson PLC",
+        "lat": -64.9653878909424,
+        "lon": -53.095022220980496
+      },
+      {
+        "timestamp": "2025-06-16T20:02:55.978994",
+        "place": "Smith and Sons",
+        "lat": -19.68213338933538,
+        "lon": -93.25143747131999
+      },
+      {
+        "timestamp": "2025-06-15T06:56:12.162917",
+        "place": "Keller Group",
+        "lat": -71.36521974575892,
+        "lon": -30.146363770319592
+      },
+      {
+        "timestamp": "2025-06-16T04:35:59.921743",
+        "place": "Cortez LLC",
+        "lat": 89.0177005,
+        "lon": 39.254274
+      },
+      {
+        "timestamp": "2025-06-14T07:01:11.329194",
+        "place": "Powell-Phillips",
+        "lat": 22.8627035,
+        "lon": 176.981268
+      },
+      {
+        "timestamp": "2025-06-16T17:36:25.443691",
+        "place": "Byrd-Orr",
+        "lat": -9.2143825,
+        "lon": 38.009946
+      },
+      {
+        "timestamp": "2025-06-17T14:02:10.813470",
+        "place": "Bass, Torres and Clark",
+        "lat": 72.849474,
+        "lon": 171.492405
+      }
+    ],
+    "past_splits": [
+      "s005",
+      "s008",
+      "s011",
+      "s012",
+      "s014",
+      "s018"
+    ]
+  },
+  {
+    "user_id": "u012",
+    "name": "Carla Kelly",
+    "location": {
+      "lat": 89.898778,
+      "lon": -36.667376
+    },
+    "recent_locations": [
+      {
+        "timestamp": "2025-06-18T00:23:27.022170",
+        "place": "Romero Inc",
+        "lat": -9.886697912656498,
+        "lon": 163.03297832551323
+      },
+      {
+        "timestamp": "2025-06-14T17:17:13.300784",
+        "place": "Ramirez Group",
+        "lat": -54.4830211626915,
+        "lon": 126.57668074511201
+      },
+      {
+        "timestamp": "2025-06-14T17:26:41.833254",
+        "place": "Russell Group",
+        "lat": 17.653514781548704,
+        "lon": -148.52058319903884
+      },
+      {
+        "timestamp": "2025-06-14T13:20:24.296587",
+        "place": "Wilson LLC",
+        "lat": -18.739448449474207,
+        "lon": -159.46100015385085
+      },
+      {
+        "timestamp": "2025-06-14T17:23:22.005227",
+        "place": "Marshall-Ramos",
+        "lat": 37.019948,
+        "lon": -88.897628
+      },
+      {
+        "timestamp": "2025-06-15T07:58:04.326337",
+        "place": "Miller, Robertson and Schultz",
+        "lat": -26.9529415,
+        "lon": -13.34482
+      }
+    ],
+    "past_splits": [
+      "s008",
+      "s018",
+      "s019"
+    ]
+  },
+  {
+    "user_id": "u013",
+    "name": "Melinda Jones",
+    "location": {
+      "lat": 80.450686,
+      "lon": -88.12064
+    },
+    "recent_locations": [
+      {
+        "timestamp": "2025-06-17T11:44:43.473461",
+        "place": "Spence PLC",
+        "lat": -55.53553037174128,
+        "lon": 174.2007194001872
+      },
+      {
+        "timestamp": "2025-06-17T04:25:12.247638",
+        "place": "Kim PLC",
+        "lat": 74.19586505324357,
+        "lon": 171.10063689392462
+      },
+      {
+        "timestamp": "2025-06-14T05:19:12.516415",
+        "place": "Ramos, Thornton and Hoffman",
+        "lat": -49.98897675011901,
+        "lon": 112.91106987792206
+      },
+      {
+        "timestamp": "2025-06-16T04:24:59.921743",
+        "place": "Cortez LLC",
+        "lat": 89.01749809033382,
+        "lon": 39.25431950152473
+      },
+      {
+        "timestamp": "2025-06-13T18:40:34.767498",
+        "place": "Drake and Sons",
+        "lat": -24.275581,
+        "lon": 75.08688
+      },
+      {
+        "timestamp": "2025-06-16T19:19:01.644479",
+        "place": "Atkinson, Jones and Perry",
+        "lat": -37.8066895,
+        "lon": 26.14687
+      }
+    ],
+    "past_splits": [
+      "s001",
+      "s003",
+      "s005",
+      "s013"
+    ]
+  },
+  {
+    "user_id": "u014",
+    "name": "Danielle Ford",
+    "location": {
+      "lat": -17.536433,
+      "lon": 163.597253
+    },
+    "recent_locations": [
+      {
+        "timestamp": "2025-06-14T14:31:40.083004",
+        "place": "Kennedy, Mueller and Aguirre",
+        "lat": -63.980655804184835,
+        "lon": 173.78891802142817
+      },
+      {
+        "timestamp": "2025-06-14T23:24:10.721130",
+        "place": "Gray Group",
+        "lat": 32.140265682796894,
+        "lon": -26.858003620856945
+      },
+      {
+        "timestamp": "2025-06-17T06:55:14.466202",
+        "place": "Carlson LLC",
+        "lat": -5.797518468453447,
+        "lon": 54.287156685775514
+      },
+      {
+        "timestamp": "2025-06-14T07:15:11.329194",
+        "place": "Powell-Phillips",
+        "lat": 22.86251016645027,
+        "lon": 176.98171242651534
+      },
+      {
+        "timestamp": "2025-06-14T17:14:22.005227",
+        "place": "Marshall-Ramos",
+        "lat": 37.020027202193404,
+        "lon": -88.89725208162882
+      },
+      {
+        "timestamp": "2025-06-17T02:15:35.882451",
+        "place": "Ross-Hernandez",
+        "lat": -61.388191,
+        "lon": 48.248626
+      },
+      {
+        "timestamp": "2025-06-16T05:54:00.748192",
+        "place": "Thompson Ltd",
+        "lat": -76.519606,
+        "lon": 119.254959
+      }
+    ],
+    "past_splits": [
+      "s006",
+      "s007"
+    ]
+  },
+  {
+    "user_id": "u015",
+    "name": "Colleen Nguyen",
+    "location": {
+      "lat": -74.9842715,
+      "lon": -57.030753
+    },
+    "recent_locations": [
+      {
+        "timestamp": "2025-06-14T13:54:39.383144",
+        "place": "Moore, Yu and Miller",
+        "lat": 69.72832838416085,
+        "lon": -143.5137194510428
+      },
+      {
+        "timestamp": "2025-06-16T23:20:06.924865",
+        "place": "Smith, Montoya and Evans",
+        "lat": -53.951184452460716,
+        "lon": -38.01620998730981
+      },
+      {
+        "timestamp": "2025-06-14T14:23:17.030585",
+        "place": "Joyce, Wilson and Lam",
+        "lat": -78.08528069888168,
+        "lon": 54.10702455225956
+      },
+      {
+        "timestamp": "2025-06-13T18:29:34.767498",
+        "place": "Drake and Sons",
+        "lat": -24.275594814368862,
+        "lon": 75.08731138287203
+      },
+      {
+        "timestamp": "2025-06-17T02:06:35.882451",
+        "place": "Ross-Hernandez",
+        "lat": -61.38811355718525,
+        "lon": 48.24865087346001
+      },
+      {
+        "timestamp": "2025-06-15T22:31:14.508603",
+        "place": "Lowery Inc",
+        "lat": 34.7267195,
+        "lon": 178.403064
+      }
+    ],
+    "past_splits": [
+      "s013",
+      "s017"
+    ]
+  },
+  {
+    "user_id": "u016",
+    "name": "Renee Morales",
+    "location": {
+      "lat": -72.232632,
+      "lon": -66.729451
+    },
+    "recent_locations": [
+      {
+        "timestamp": "2025-06-16T08:16:14.741012",
+        "place": "Lynch, Hernandez and Farmer",
+        "lat": 52.365422432187145,
+        "lon": -179.69254568321435
+      },
+      {
+        "timestamp": "2025-06-16T11:57:22.777180",
+        "place": "Hensley, Powell and David",
+        "lat": 65.40235714645054,
+        "lon": 139.17971576055893
+      },
+      {
+        "timestamp": "2025-06-16T10:06:53.841794",
+        "place": "Davenport PLC",
+        "lat": 25.36983583836988,
+        "lon": -111.57823560153302
+      },
+      {
+        "timestamp": "2025-06-15T16:34:38.032408",
+        "place": "Garcia, Deleon and Henson",
+        "lat": 76.60729461966974,
+        "lon": -97.02509845183941
+      },
+      {
+        "timestamp": "2025-06-16T17:41:25.443691",
+        "place": "Byrd-Orr",
+        "lat": -9.2142378497586,
+        "lon": 38.01028999353417
+      },
+      {
+        "timestamp": "2025-06-18T02:42:58.999950",
+        "place": "Travis, Larson and Dodson",
+        "lat": 74.457605,
+        "lon": 91.000712
+      }
+    ],
+    "past_splits": [
+      "s004",
+      "s007",
+      "s012",
+      "s020"
+    ]
+  },
+  {
+    "user_id": "u017",
+    "name": "Latoya Robbins",
+    "location": {
+      "lat": -32.9234975,
+      "lon": 171.885954
+    },
+    "recent_locations": [
+      {
+        "timestamp": "2025-06-16T06:58:58.076165",
+        "place": "Arroyo-Martin",
+        "lat": 72.83083581822397,
+        "lon": 47.17060051676844
+      },
+      {
+        "timestamp": "2025-06-17T23:37:20.475296",
+        "place": "Gomez-Jenkins",
+        "lat": -75.4587433171546,
+        "lon": 170.82103497116566
+      },
+      {
+        "timestamp": "2025-06-16T22:44:48.207052",
+        "place": "Harvey Group",
+        "lat": 61.726670810654575,
+        "lon": 100.66701372403678
+      },
+      {
+        "timestamp": "2025-06-18T01:35:54.800415",
+        "place": "Hancock and Sons",
+        "lat": -83.34638668245316,
+        "lon": -83.706305747026
+      },
+      {
+        "timestamp": "2025-06-17T02:11:05.287467",
+        "place": "Meyer PLC",
+        "lat": -37.10849088882533,
+        "lon": 15.539816781653835
+      }
+    ],
+    "past_splits": [
+      "s005",
+      "s010",
+      "s012"
+    ]
+  },
+  {
+    "user_id": "u018",
+    "name": "Dr. Marvin Thomas Jr.",
+    "location": {
+      "lat": 60.6911115,
+      "lon": 109.361229
+    },
+    "recent_locations": [
+      {
+        "timestamp": "2025-06-18T01:25:30.851220",
+        "place": "Nguyen, Smith and Hickman",
+        "lat": -7.452133305754038,
+        "lon": -51.4447167499738
+      },
+      {
+        "timestamp": "2025-06-18T03:51:58.442979",
+        "place": "Parker Inc",
+        "lat": -33.60787453463282,
+        "lon": -46.03493664426233
+      },
+      {
+        "timestamp": "2025-06-17T00:12:02.879853",
+        "place": "Middleton, Patton and Jenkins",
+        "lat": -23.383227460572282,
+        "lon": -36.75935192561938
+      },
+      {
+        "timestamp": "2025-06-15T07:31:09.415570",
+        "place": "Jones-Beck",
+        "lat": -5.733721176396061,
+        "lon": 176.1531478690503
+      },
+      {
+        "timestamp": "2025-06-17T13:52:10.813470",
+        "place": "Bass, Torres and Clark",
+        "lat": 72.84980542092232,
+        "lon": 171.4926469872045
+      },
+      {
+        "timestamp": "2025-06-15T07:59:04.326337",
+        "place": "Miller, Robertson and Schultz",
+        "lat": -26.95263774422755,
+        "lon": -13.344993496666095
+      },
+      {
+        "timestamp": "2025-06-16T06:06:00.748192",
+        "place": "Thompson Ltd",
+        "lat": -76.51922087834217,
+        "lon": 119.25463004198251
+      },
+      {
+        "timestamp": "2025-06-18T03:24:36.900597",
+        "place": "Rivas-Kelley",
+        "lat": 37.4194485,
+        "lon": 61.629363
+      }
+    ],
+    "past_splits": [
+      "s003",
+      "s005"
+    ]
+  },
+  {
+    "user_id": "u019",
+    "name": "Kevin Hurst",
+    "location": {
+      "lat": 17.213257,
+      "lon": 14.345362
+    },
+    "recent_locations": [
+      {
+        "timestamp": "2025-06-18T09:07:45.160369",
+        "place": "Allen PLC",
+        "lat": -67.00747385441883,
+        "lon": 80.91437056003203
+      },
+      {
+        "timestamp": "2025-06-17T13:38:55.180305",
+        "place": "Horton-Cross",
+        "lat": 87.6701007134946,
+        "lon": 81.2794202524659
+      },
+      {
+        "timestamp": "2025-06-17T05:51:17.857941",
+        "place": "Donovan-Harris",
+        "lat": -25.928050508997426,
+        "lon": -37.39908779567593
+      },
+      {
+        "timestamp": "2025-06-16T10:12:55.612862",
+        "place": "Preston Ltd",
+        "lat": -16.89246364799534,
+        "lon": -28.73315802948247
+      },
+      {
+        "timestamp": "2025-06-16T19:34:01.644479",
+        "place": "Atkinson, Jones and Perry",
+        "lat": -37.80621092300807,
+        "lon": 26.147236616758576
+      },
+      {
+        "timestamp": "2025-06-18T02:29:58.999950",
+        "place": "Travis, Larson and Dodson",
+        "lat": 74.4573921099711,
+        "lon": 91.0004476182835
+      },
+      {
+        "timestamp": "2025-06-18T03:34:36.900597",
+        "place": "Rivas-Kelley",
+        "lat": 37.41916118429978,
+        "lon": 61.62959921897093
+      },
+      {
+        "timestamp": "2025-06-15T01:01:21.504552",
+        "place": "Walton-Larsen",
+        "lat": 49.935353,
+        "lon": 80.166043
+      }
+    ],
+    "past_splits": [
+      "s013"
+    ]
+  },
+  {
+    "user_id": "u020",
+    "name": "Zachary Hicks",
+    "location": {
+      "lat": -65.5966905,
+      "lon": -154.70459
+    },
+    "recent_locations": [
+      {
+        "timestamp": "2025-06-17T02:29:45.817067",
+        "place": "Hickman Ltd",
+        "lat": -6.3242005683520395,
+        "lon": 34.206972817841134
+      },
+      {
+        "timestamp": "2025-06-15T13:49:01.024162",
+        "place": "Cobb Inc",
+        "lat": -79.60451672096353,
+        "lon": 72.70004201124489
+      },
+      {
+        "timestamp": "2025-06-18T13:27:59.664870",
+        "place": "May-Ross",
+        "lat": 53.93920883662459,
+        "lon": -2.2153142495940115
+      },
+      {
+        "timestamp": "2025-06-15T22:36:14.508603",
+        "place": "Lowery Inc",
+        "lat": 34.72710635135451,
+        "lon": 178.40279914459677
+      },
+      {
+        "timestamp": "2025-06-15T01:00:21.504552",
+        "place": "Walton-Larsen",
+        "lat": 49.935180513433956,
+        "lon": 80.1656529249431
+      }
+    ],
+    "past_splits": [
+      "s009",
+      "s010",
+      "s011"
+    ]
+  }
+]
